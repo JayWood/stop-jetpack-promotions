@@ -2,6 +2,7 @@
 **Version:** 1.0.0  
 **Author:** JayWood  
 **Author URI:** https://plugish.com  
+**Tested up to:** 5.1.1
 **License:** GPL2  
 **Network:** true  
 
