@@ -17,7 +17,7 @@ Removes all Jetpack promotional material with a quick fix. Pull requests welcome
 * Activate
 
 ### New-school ( developers )
-`composer require jaywood/stop-jetpack-promotions` 
+`composer require jaywood/stop-jetpack-promotions:dev-master` 
 
 If you happen to use the sweet [Composer Installers](https://github.com/composer/installers) library, this CLI script is
 marked as a `wordpress-plugin` for those of us who use CI environments.
