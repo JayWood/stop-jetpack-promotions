@@ -1,0 +1,14 @@
+{
+    "name": "jaywood/stop-jetpack-promotions",
+    "description": "Stops Jetpack promotions on WordPress blogs.",
+    "type": "wordpress-plugin",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "JayWood",
+            "email": "jjwood2004@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
