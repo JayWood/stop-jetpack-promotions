@@ -20,3 +20,7 @@ Removes all Jetpack promotional material with a quick fix. Pull requests welcome
 
 If you happen to use the sweet [Composer Installers](https://github.com/composer/installers) library, this CLI script is
 marked as a `wordpress-plugin` for those of us who use CI environments.
+
+## Screenshots
+
+![Video showing plugin in action](https://i.gyazo.com/24b94442613359e307b75213752cd8cb.gif)
